@@ -1,19 +1,19 @@
-🇬🇧 [English](https://github.com/Aiden3630/Aiden3630/tree/main) | 🇷🇺 [Русский](https://github.com/Aiden3630/Aiden3630/tree/ru)
+🇬🇧 [English](https://github.com/Aiden3630/Aiden3630/tree/main) | 🇷🇺 **[Русский](https://github.com/Aiden3630/Aiden3630/tree/ru)**
 
-# Hi, I'm Aiden3630 👋
+# Привет, я Aiden3630 👋
 
 ### Junior Game Developer · Software Developer
 
-I build games, Android applications, web tools, and backend services. My main game-development stack is **TypeScript + Phaser 3**; I also work with **Python, Kotlin, React, and Node.js**.
+Разрабатываю игры, Android-приложения, веб-инструменты и backend-сервисы. Мой основной game-dev стек — **TypeScript + Phaser 3**; также работаю с **Python, Kotlin, React и Node.js**.
 
-## 🧭 About Me
+## 🧭 Обо мне
 
-- 🎮 My main direction is game development: gameplay systems, progression, economy, balancing, and mobile-first browser games.
-- 🚀 I take personal projects beyond prototypes by adding tests, release builds, deployment, documentation, and platform integrations.
-- 📱 I also build native Android applications, including local-first and security-focused tools.
-- 🧩 I am comfortable working across frontend, backend, data processing, and existing codebases.
+- 🎮 Моё главное направление — разработка игр: игровые системы, прогрессия, экономика, баланс и mobile-first браузерные игры.
+- 🚀 Довожу личные проекты дальше прототипа: добавляю тесты, релизные сборки, deployment, документацию и интеграции с платформами.
+- 📱 Создаю нативные Android-приложения, в том числе local-first и privacy-ориентированные инструменты.
+- 🧩 Умею работать на стыке frontend, backend, обработки данных и существующих кодовых баз.
 
-## 🛠️ Tech Stack
+## 🛠️ Технологический стек
 
 **Game Development**
 
@@ -23,7 +23,7 @@ I build games, Android applications, web tools, and backend services. My main ga
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-`gameplay logic` · `game systems` · `progression` · `economy & balancing` · `browser games`
+`игровая логика` · `игровые системы` · `прогрессия` · `экономика и баланс` · `браузерные игры`
 
 **Web & Backend**
 
@@ -55,127 +55,127 @@ I build games, Android applications, web tools, and backend services. My main ga
 
 **Other**
 
-`Stellaris & Crusader Kings III modding` · `Paradox / Clausewitz scripting` · `YAML` · `basic 1C` · `AI-assisted development`
+`моддинг Stellaris и Crusader Kings III` · `Paradox / Clausewitz scripting` · `YAML` · `базовый опыт с 1С` · `AI-assisted development`
 
-## 🎮 Featured Projects
+## 🎮 Избранные проекты
 
 ### [WrenchBloom Garage](https://github.com/Aiden3630/yandex-game)
 
-A mobile-first casual/tycoon browser game about finding, restoring, painting, and selling cars while developing a garage.
+Mobile-first casual/tycoon-игра: игрок находит, восстанавливает, красит и продаёт автомобили, постепенно развивая гараж.
 
-**Highlights**
+**Ключевые особенности**
 
-- Built the full restoration loop: washing, part repair, painting, sale, and reinvestment.
-- Designed progression around XP, garage levels, unlockable cars, upgrades, quests, events, and offline rewards.
-- Implemented local and Yandex Player cloud saves with conflict resolution and a safe local fallback.
-- Integrated Yandex Games lifecycle and advertising flows, including rewarded and fullscreen ads.
-- Added engineering tools for economy simulation, balance regression, save compatibility, vehicle visual QA, and release preflight.
-- Created layered SVG rendering for 10 vehicles across dirty, damaged, and restored states.
+- Полный игровой цикл: мойка, ремонт деталей, покраска, продажа и реинвестиции.
+- Прогрессия на основе XP, уровней гаража, новых машин, улучшений, заданий, событий и offline-дохода.
+- Локальные и облачные сохранения Yandex Player с разрешением конфликтов и безопасным локальным fallback.
+- Интеграция lifecycle и рекламы Yandex Games, включая rewarded и fullscreen ads.
+- Инструменты для симуляции экономики, регрессии баланса, совместимости сохранений, visual QA и release preflight.
+- Слоистый SVG-рендеринг 10 автомобилей в загрязнённом, повреждённом и восстановленном состоянии.
 
-**Tech:** TypeScript · Phaser 3 · Vite · Yandex Games SDK · HTML/CSS · Web Audio API
+**Стек:** TypeScript · Phaser 3 · Vite · Yandex Games SDK · HTML/CSS · Web Audio API
 
-[📂 Repository](https://github.com/Aiden3630/yandex-game)
+[📂 Репозиторий](https://github.com/Aiden3630/yandex-game)
 
 ### [NRДжойс: Bubble Rush](https://github.com/Aiden3630/nr-joice_game)
 
-A mobile-first promotional arcade runner with short sessions, score-chasing mechanics, and branded result sharing.
+Mobile-first промо-раннер с короткими сессиями, набором очков и брендированными карточками результата.
 
-**Highlights**
+**Ключевые особенности**
 
-- Built a 75-second game loop with bonuses, obstacles, score multipliers, and escalating phases.
-- Implemented swipe controls for mobile devices and keyboard controls for desktop.
-- Added combo systems, `NR Boost`, `FIZZ FEVER`, `Bottle Rocket Finish`, achievements, and daily records.
-- Stored progress and high scores locally and added native share/copy actions for result cards.
-- Packaged the game as an installable PWA with a manifest, service worker, and offline app-shell caching.
-- Published the production build through GitHub Pages.
+- 75-секундный игровой цикл с бонусами, препятствиями, множителями очков и усложняющимися фазами.
+- Swipe-управление на мобильных устройствах и клавиатурное управление на desktop.
+- Combo-системы, `NR Boost`, `FIZZ FEVER`, `Bottle Rocket Finish`, достижения и ежедневные рекорды.
+- Локальное хранение прогресса и native share/copy для карточек результата.
+- Сборка как устанавливаемое PWA с manifest, service worker и offline-кэшированием app shell.
+- Публичная production-сборка на GitHub Pages.
 
-**Tech:** TypeScript · Phaser 3 · PWA · HTML/CSS · LocalStorage
+**Стек:** TypeScript · Phaser 3 · PWA · HTML/CSS · LocalStorage
 
-[📂 Repository](https://github.com/Aiden3630/nr-joice_game) · [🎮 Play Online](https://aiden3630.github.io/nr-joice_game/)
+[📂 Репозиторий](https://github.com/Aiden3630/nr-joice_game) · [🎮 Играть онлайн](https://aiden3630.github.io/nr-joice_game/)
 
 ### [Aiden Calculator](https://github.com/Aiden3630/aiden_calc)
 
-A native Android calculator with an integrated private space for photos, videos, and documents.
+Нативный Android-калькулятор со встроенным приватным пространством для фотографий, видео и документов.
 
-**Highlights**
+**Ключевые особенности**
 
-- Combined standard and scientific calculations with a separate authenticated file vault.
-- Implemented encrypted file and metadata storage, PIN and biometric access, and independent vault spaces.
-- Built import, media viewing, batch export, trash recovery, a private browser, and Wi-Fi transfer workflows.
-- Added encrypted WebDAV backup and restore with credentials protected by Android Keystore.
-- Covered cryptography, archive import, export failures, cloud sync, and vault repair with automated tests.
-- Prepared a working Android APK release.
+- Обычные и инженерные вычисления объединены с отдельным защищённым файловым хранилищем.
+- Зашифрованное хранение файлов и метаданных, вход по PIN-коду и биометрии, два независимых пространства.
+- Импорт, просмотр медиа, пакетный экспорт, корзина с восстановлением, приватный браузер и передача файлов по Wi-Fi.
+- Зашифрованное резервное копирование и восстановление через WebDAV; учётные данные защищены Android Keystore.
+- Автоматизированные тесты криптографии, импорта архивов, ошибок экспорта, облачной синхронизации и восстановления хранилища.
+- Подготовлена рабочая APK-версия.
 
-**Tech:** Kotlin · Jetpack Compose · Material 3 · Room · Android Keystore · Media3 · WebDAV · JUnit/Robolectric
+**Стек:** Kotlin · Jetpack Compose · Material 3 · Room · Android Keystore · Media3 · WebDAV · JUnit/Robolectric
 
-[📂 Repository](https://github.com/Aiden3630/aiden_calc) · [📲 Android APK](https://github.com/Aiden3630/aiden_calc/releases/tag/v3.3)
+[📂 Репозиторий](https://github.com/Aiden3630/aiden_calc) · [📲 Android APK](https://github.com/Aiden3630/aiden_calc/releases/tag/v3.3)
 
 ### [D&D Universe Companion](https://github.com/Aiden3630/DnDUniverseCompanion)
 
-A Russian-language Android companion for D&D 5e character management, reference data, and dice rolls.
+Русскоязычное Android-приложение для ведения персонажей D&D 5e, поиска справочных данных и бросков костей.
 
-**Highlights**
+**Ключевые особенности**
 
-- Implemented character creation and editing, level progression, health, rests, skills, feats, and inventory.
-- Integrated the D&D 5e SRD API for creature and spell lookup through Retrofit.
-- Added a Room cache so previously opened reference content remains available offline.
-- Structured data access through repositories, DAOs, ViewModels, Kotlin Flow, and coroutines.
-- Built an in-app roller for d4, d6, d8, d10, d12, d20, and d100 with modifiers.
+- Создание и редактирование персонажей, уровни 1–20, здоровье, отдых, навыки, черты и инвентарь.
+- Интеграция D&D 5e SRD API для поиска существ и заклинаний через Retrofit.
+- Room-кэш: ранее открытые справочные данные остаются доступными без сети.
+- Слой данных разделён между repositories, DAO и ViewModel с Kotlin Flow и coroutines.
+- Встроенный дайсроллер для d4, d6, d8, d10, d12, d20 и d100 с модификатором.
 
-**Tech:** Kotlin · Android Views/View Binding · Material 3 · Room · Retrofit · Coroutines · Kotlin Flow
+**Стек:** Kotlin · Android Views/View Binding · Material 3 · Room · Retrofit · Coroutines · Kotlin Flow
 
-[📂 Repository](https://github.com/Aiden3630/DnDUniverseCompanion)
+[📂 Репозиторий](https://github.com/Aiden3630/DnDUniverseCompanion)
 
 ### [Kainite Imperium](https://github.com/Aiden3630/Kainite-Imperium)
 
-A data-driven Stellaris mod that turns a hereditary genetic hierarchy into playable systems and narrative events.
+Data-driven мод для Stellaris, который превращает идею наследственной генетической иерархии в игровые механики и сюжетные события.
 
-**Highlights**
+**Ключевые особенности**
 
-- Designed a custom civic and alpha, beta, and omega gene traits with distinct gameplay modifiers.
-- Implemented trait inheritance through Stellaris on-actions, scripted triggers, and scripted effects.
-- Added decisions, edicts, armies, event chains, diplomatic consequences, and a playable empire preset.
-- Built a risk/reward event path with persistent country modifiers and cooldowns.
-- Prepared complete Russian and English YAML localization plus testing documentation.
+- Авторская гражданская модель и альфа-, бета- и омега-гены с разными игровыми модификаторами.
+- Наследование черт реализовано через Stellaris on-actions, scripted triggers и scripted effects.
+- Добавлены решения, указы, армии, событийные цепочки, дипломатические последствия и готовый пресет империи.
+- Risk/reward-цепочка с долгосрочными модификаторами и cooldown.
+- Полная русская и английская YAML-локализация и документация по тестированию.
 
-**Tech:** Stellaris / Clausewitz scripting · YAML · DDS · Markdown
+**Стек:** Stellaris / Clausewitz scripting · YAML · DDS · Markdown
 
-[📂 Repository](https://github.com/Aiden3630/Kainite-Imperium)
+[📂 Репозиторий](https://github.com/Aiden3630/Kainite-Imperium)
 
 ### [Alfa Analytics](https://github.com/Aiden3630/alfa)
 
-A collaborative B2B analytics MVP that combines a Streamlit interface, a FastAPI service, and data-processing workflows.
+Совместный B2B analytics MVP, объединяющий интерфейс Streamlit, сервис FastAPI и сценарии обработки данных.
 
-**Highlights**
+**Ключевые особенности**
 
-- Implemented workflows for location evaluation, category demand forecasting, and B2B client segmentation.
-- Exposed analysis operations through typed FastAPI endpoints and Pydantic request models.
-- Built scikit-learn training and model-persistence pipelines for location analysis and client segmentation.
-- Added synthetic-data generation plus interactive Plotly and Folium visualizations.
-- Deployed the user-facing Streamlit application.
+- Сценарии оценки локаций, прогноза спроса по категориям и сегментации B2B-клиентов.
+- Аналитические операции доступны через типизированные FastAPI endpoints и Pydantic-модели запросов.
+- Для анализа локаций и сегментации реализованы scikit-learn pipelines обучения и сохранения моделей.
+- Добавлены генерация синтетических данных и интерактивные визуализации Plotly и Folium.
+- Пользовательское Streamlit-приложение развёрнуто в облаке.
 
-**Tech:** Python · FastAPI · Streamlit · Pandas · NumPy · scikit-learn · Plotly · Folium
+**Стек:** Python · FastAPI · Streamlit · Pandas · NumPy · scikit-learn · Plotly · Folium
 
-[📂 Repository](https://github.com/Aiden3630/alfa) · [🚀 Live Application](https://aiden3630-alfa.streamlit.app/)
+[📂 Репозиторий](https://github.com/Aiden3630/alfa) · [🚀 Публичное приложение](https://aiden3630-alfa.streamlit.app/)
 
-## 🧩 More Projects
+## 🧩 Другие проекты
 
-- **[Matule](https://github.com/Aiden3630/Matule-App-Final-Edition)** — a multi-module Android app for handmade fashion projects with authentication, catalog and cart flows, project CRUD, networking, background reminders, Hilt, and automated tests.
-- **[Umbra](https://github.com/Aiden3630/Umbra)** — an Android privacy and safety MVP with controlled cleanup profiles, dry runs, a private vault, scheduled/geofence triggers, a duress PIN, and SOS actions.
-- **[Erebus Corporation](https://github.com/Aiden3630/erebus-corporation)** — a bilingual interactive web experience with procedural Canvas graphics, Web Audio synthesis, a command terminal, and layered public/classified UI. [Live site](https://aiden3630.github.io/erebus-corporation/).
-- **[High Valyrian](https://github.com/Aiden3630/Valirian_lang)** — an offline Java Android translator based on embedded dictionaries, phrase rules, unknown-word adaptation, and result confidence. [Android release](https://github.com/Aiden3630/Valirian_lang/releases/tag/v1.2).
+- **[Matule](https://github.com/Aiden3630/Matule-App-Final-Edition)** — многомодульное Android-приложение для творческих швейных проектов с авторизацией, каталогом, корзиной, CRUD проектов, сетевым слоем, фоновыми напоминаниями, Hilt и тестами.
+- **[Umbra](https://github.com/Aiden3630/Umbra)** — Android privacy/safety MVP с контролируемыми профилями очистки, dry run, приватным хранилищем, запуском по расписанию и геозоне, PIN режима принуждения и SOS-действиями.
+- **[Erebus Corporation](https://github.com/Aiden3630/erebus-corporation)** — двуязычный интерактивный веб-проект с процедурной Canvas-графикой, Web Audio синтезом, командным терминалом и двухуровневым UI. [Открыть сайт](https://aiden3630.github.io/erebus-corporation/).
+- **[High Valyrian](https://github.com/Aiden3630/Valirian_lang)** — офлайн-переводчик для Android на Java со встроенными словарями, правилами фраз, адаптацией неизвестных слов и оценкой уверенности. [Android-релиз](https://github.com/Aiden3630/Valirian_lang/releases/tag/v1.2).
 
 ## 🧠 AI-Assisted Development
 
-I use AI as a supporting engineering tool for **prototyping, debugging, code review, architecture planning, research, rapid iteration, and working with existing codebases**. I treat generated output as a starting point and validate it against the project structure, requirements, tests, and runtime behavior.
+Использую AI как вспомогательный инженерный инструмент для **прототипирования, отладки, code review, планирования архитектуры, исследований, быстрых итераций и работы с существующими кодовыми базами**. Сгенерированный результат всегда сверяю со структурой проекта, требованиями, тестами и поведением при запуске.
 
-## 🎯 Current Focus
+## 🎯 Сейчас сосредоточен на
 
-- Building deeper gameplay systems with TypeScript and Phaser 3.
-- Improving game economy design, balancing workflows, and mobile-first UX.
-- Strengthening Android architecture, secure local storage, and automated testing.
-- Expanding practical Python/backend and applied analytics experience.
+- Углублении игровых систем на TypeScript и Phaser 3.
+- Развитии навыков проектирования игровой экономики, баланса и mobile-first UX.
+- Android-архитектуре, защищённом локальном хранении и автоматизации тестирования.
+- Расширении практического опыта с Python/backend и прикладной аналитикой.
 
 ---
 
-<sub>Thanks for visiting. This profile is focused on practical projects, honest technical scope, and continuous growth as a junior developer.</sub>
+<sub>Спасибо, что заглянули. В этом профиле я показываю практические проекты, честно обозначаю их технический масштаб и продолжаю развиваться как junior-разработчик.</sub>
