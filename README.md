@@ -1,4 +1,4 @@
-🇬🇧 [English](README.md) | 🇷🇺 [Русский](README_RU.md)
+🇬🇧 [English](https://github.com/Aiden3630/Aiden3630/tree/main) | 🇷🇺 [Русский](https://github.com/Aiden3630/Aiden3630/tree/ru)
 
 # Hi, I'm Aiden3630 👋
 
