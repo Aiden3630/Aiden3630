@@ -1,17 +1,17 @@
 🇬🇧 [English](https://github.com/Aiden3630/Aiden3630/tree/main) | 🇷🇺 [Русский](https://github.com/Aiden3630/Aiden3630/tree/ru)
 
-# Привет, я Aiden3630 👋
+# Привет, я Aiden3630
 
 ### Junior Game Developer · Software Developer
 
 Разрабатываю игры, Android-приложения, веб-инструменты и backend-сервисы. Мой основной game-dev стек — **TypeScript + Phaser 3**; также работаю с **Python, Kotlin, React и Node.js**.
 
-## 🧭 Обо мне
+## Обо мне
 
-- 🎮 Моё главное направление — разработка игр: игровые системы, прогрессия, экономика, баланс и mobile-first браузерные игры.
-- 🚀 Довожу личные проекты дальше прототипа: добавляю тесты, релизные сборки, deployment, документацию и интеграции с платформами.
-- 📱 Создаю нативные Android-приложения, в том числе local-first и privacy-ориентированные инструменты.
-- 🧩 Умею работать на стыке frontend, backend, обработки данных и существующих кодовых баз.
+- Моё главное направление — разработка игр: игровые системы, прогрессия, экономика, баланс и mobile-first браузерные игры.
+- Довожу личные проекты дальше прототипа: добавляю тесты, релизные сборки, deployment, документацию и интеграции с платформами.
+- Создаю нативные Android-приложения, в том числе local-first и privacy-ориентированные инструменты.
+- Умею работать на стыке frontend, backend, обработки данных и существующих кодовых баз.
 
 ## 🛠️ Технологический стек
 
@@ -57,7 +57,7 @@
 
 `моддинг Stellaris и Crusader Kings III` · `Paradox / Clausewitz scripting` · `YAML` · `базовый опыт с 1С` · `AI-assisted development`
 
-## 🎮 Избранные проекты
+## Избранные проекты
 
 ### [WrenchBloom Garage](https://github.com/Aiden3630/yandex-game)
 
@@ -74,7 +74,7 @@ Mobile-first casual/tycoon-игра: игрок находит, восстана
 
 **Стек:** TypeScript · Phaser 3 · Vite · Yandex Games SDK · HTML/CSS · Web Audio API
 
-[📂 Репозиторий](https://github.com/Aiden3630/yandex-game)
+[Репозиторий](https://github.com/Aiden3630/yandex-game)
 
 ### [NRДжойс: Bubble Rush](https://github.com/Aiden3630/nr-joice_game)
 
@@ -91,7 +91,7 @@ Mobile-first промо-раннер с короткими сессиями, н�
 
 **Стек:** TypeScript · Phaser 3 · PWA · HTML/CSS · LocalStorage
 
-[📂 Репозиторий](https://github.com/Aiden3630/nr-joice_game) · [🎮 Играть онлайн](https://aiden3630.github.io/nr-joice_game/)
+[Репозиторий](https://github.com/Aiden3630/nr-joice_game) · [Играть онлайн](https://aiden3630.github.io/nr-joice_game/)
 
 ### [Aiden Calculator](https://github.com/Aiden3630/aiden_calc)
 
@@ -108,7 +108,7 @@ Mobile-first промо-раннер с короткими сессиями, н�
 
 **Стек:** Kotlin · Jetpack Compose · Material 3 · Room · Android Keystore · Media3 · WebDAV · JUnit/Robolectric
 
-[📂 Репозиторий](https://github.com/Aiden3630/aiden_calc) · [📲 Android APK](https://github.com/Aiden3630/aiden_calc/releases/tag/v3.3)
+[Репозиторий](https://github.com/Aiden3630/aiden_calc) · [Android APK](https://github.com/Aiden3630/aiden_calc/releases/tag/v3.3)
 
 ### [D&D Universe Companion](https://github.com/Aiden3630/DnDUniverseCompanion)
 
@@ -124,7 +124,7 @@ Mobile-first промо-раннер с короткими сессиями, н�
 
 **Стек:** Kotlin · Android Views/View Binding · Material 3 · Room · Retrofit · Coroutines · Kotlin Flow
 
-[📂 Репозиторий](https://github.com/Aiden3630/DnDUniverseCompanion)
+[Репозиторий](https://github.com/Aiden3630/DnDUniverseCompanion)
 
 ### [Kainite Imperium](https://github.com/Aiden3630/Kainite-Imperium)
 
@@ -140,7 +140,7 @@ Data-driven мод для Stellaris, который превращает иде�
 
 **Стек:** Stellaris / Clausewitz scripting · YAML · DDS · Markdown
 
-[📂 Репозиторий](https://github.com/Aiden3630/Kainite-Imperium)
+[Репозиторий](https://github.com/Aiden3630/Kainite-Imperium)
 
 ### [Alfa Analytics](https://github.com/Aiden3630/alfa)
 
@@ -156,20 +156,20 @@ Data-driven мод для Stellaris, который превращает иде�
 
 **Стек:** Python · FastAPI · Streamlit · Pandas · NumPy · scikit-learn · Plotly · Folium
 
-[📂 Репозиторий](https://github.com/Aiden3630/alfa) · [🚀 Публичное приложение](https://aiden3630-alfa.streamlit.app/)
+[Репозиторий](https://github.com/Aiden3630/alfa) · [Публичное приложение](https://aiden3630-alfa.streamlit.app/)
 
-## 🧩 Другие проекты
+## Другие проекты
 
 - **[Matule](https://github.com/Aiden3630/Matule-App-Final-Edition)** — многомодульное Android-приложение для творческих швейных проектов с авторизацией, каталогом, корзиной, CRUD проектов, сетевым слоем, фоновыми напоминаниями, Hilt и тестами.
 - **[Umbra](https://github.com/Aiden3630/Umbra)** — Android privacy/safety MVP с контролируемыми профилями очистки, dry run, приватным хранилищем, запуском по расписанию и геозоне, PIN режима принуждения и SOS-действиями.
 - **[Erebus Corporation](https://github.com/Aiden3630/erebus-corporation)** — двуязычный интерактивный веб-проект с процедурной Canvas-графикой, Web Audio синтезом, командным терминалом и двухуровневым UI. [Открыть сайт](https://aiden3630.github.io/erebus-corporation/).
 - **[High Valyrian](https://github.com/Aiden3630/Valirian_lang)** — офлайн-переводчик для Android на Java со встроенными словарями, правилами фраз, адаптацией неизвестных слов и оценкой уверенности. [Android-релиз](https://github.com/Aiden3630/Valirian_lang/releases/tag/v1.2).
 
-## 🧠 AI-Assisted Development
+## AI-Assisted Development
 
 Использую AI как вспомогательный инженерный инструмент для **прототипирования, отладки, code review, планирования архитектуры, исследований, быстрых итераций и работы с существующими кодовыми базами**. Сгенерированный результат всегда сверяю со структурой проекта, требованиями, тестами и поведением при запуске.
 
-## 🎯 Сейчас сосредоточен на
+## Сейчас сосредоточен на
 
 - Углублении игровых систем на TypeScript и Phaser 3.
 - Развитии навыков проектирования игровой экономики, баланса и mobile-first UX.
